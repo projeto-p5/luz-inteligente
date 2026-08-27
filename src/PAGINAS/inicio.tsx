@@ -8,8 +8,8 @@ import heroImage from "@/IMAGENS/imagem-principal.jpg";
 // 
 
 const DADOS_DO_GRUPO = {
-  titulo: "TÍTULO DO TRABALHO",                    // ← Troque pelo título
-  descricao: "DESCRIÇÃO BÁSICA DO SEU TRABALHO",   // ← Troque pela descrição
+  titulo: "LUZ INTELIGENTE",                    // ← Troque pelo título
+  descricao: "O luz inteligente é um projeto de robótica feito com Arduino Uno, sensor de som e LED RGB instalados dentro de uma caixa de papelão. Ao bater uma palma, o sensor detecta o som e o LED acende, facilitando o acesso à iluminação para pessoas com baixa visão",   // ← Troque pela descrição
   materias: ["Programação", "Física", "Robótica"], // ← Troque pelas matérias
   videoYouTube: "22nd99SLgNA",                     // ← ID do vídeo do YouTube (o que vem depois do v=)
   imagem: "imagem-principal.jpg",                  // ← Nome da imagem na pasta IMAGENS
